@@ -200,7 +200,7 @@ const projects = [
     title: "Guild-Chat",
     imgSrc: "project-imgs/Chat-img.png",
     code: "https://github.com/Ankush511/Guild-Chat",
-    projectLink: "https://guild-chat-production-10cd.up.railway.app/",
+    projectLink: "guild-chat.vercel.app",
     tech: ["NextJs", "Tailwind", "Planetscale", "Prisma"],
     description:
       "Guild-Chat is a real-time communication app designed to bring communities together.",
