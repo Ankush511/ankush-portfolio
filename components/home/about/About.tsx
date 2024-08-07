@@ -13,7 +13,7 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey! I&apos;m Ankush, a passionate Software Engineer specializing in frontend development, machine learning, and data science. With expertise in Python, TensorFlow, and JavaScript/TypeScript, I bring a versatile skill set to the table. Proudly hailing from India, I'm dedicated to crafting innovative solutions and pushing the boundaries of technology.
+              Hey! I&apos;m Ankush, a passionate Software Engineer specializing in frontend development, machine learning, and data science. With expertise in Python, TensorFlow, and JavaScript/TypeScript, I bring a versatile skill set to the table. Proudly hailing from India, I&apos;m dedicated to crafting innovative solutions and pushing the boundaries of technology.
             </p>
           </Reveal>
           <Reveal>

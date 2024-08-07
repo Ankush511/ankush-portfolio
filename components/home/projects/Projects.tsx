@@ -60,7 +60,7 @@ const projects = [
           The project utilizes a powerful tech stack, including Python, TensorFlow, and Keras for building and training the CNN model. The dataset comprises thousands of labeled images of traffic signs, ensuring comprehensive training and high accuracy.
         </p>
         <p>
-          By implementing this project, we can significantly improve driver assistance systems, contributing to safer and more efficient roadways. The model's performance is continually refined through rigorous testing and validation, making it a robust solution for real-world applications.
+          By implementing this project, we can significantly improve driver assistance systems, contributing to safer and more efficient roadways. The model&apos;s performance is continually refined through rigorous testing and validation, making it a robust solution for real-world applications.
         </p>
         <p>
           Experience the future of transportation with our Traffic Sign Classification project, where technology and safety go hand in hand.
@@ -105,7 +105,7 @@ const projects = [
     modalContent: (
       <>
         <p>
-          Dalle-Verse is an innovative project inspired by the capabilities of advanced image generation models. This project replicates the functionality of OpenAI's Dalle-2, allowing users to create stunning images from textual descriptions using state-of-the-art AI technology.
+          Dalle-Verse is an innovative project inspired by the capabilities of advanced image generation models. This project replicates the functionality of OpenAI&apos;s Dalle-2, allowing users to create stunning images from textual descriptions using state-of-the-art AI technology.
         </p>
         <p>
           Built on a foundation of deep learning and natural language processing, Dalle-Verse leverages a powerful neural network architecture to generate high-quality images. The tech stack includes Python, PyTorch, and various machine learning libraries, ensuring a robust and scalable solution.
@@ -137,7 +137,7 @@ const projects = [
           Utilizing a dataset from Kaggle with over 4.4 million records, the model is built to handle large-scale data and deliver accurate predictions. The tech stack includes advanced machine learning techniques and statistical analysis to interpret the data and forecast player performance.
         </p>
         <p>
-          This project leverages cutting-edge algorithms to evaluate match conditions and player statistics, offering predictive insights that can enhance strategic decisions and gaming outcomes. The model's accuracy and reliability are continuously refined through rigorous testing and validation.
+          This project leverages cutting-edge algorithms to evaluate match conditions and player statistics, offering predictive insights that can enhance strategic decisions and gaming outcomes. The model&apos;s accuracy and reliability are continuously refined through rigorous testing and validation.
         </p>
         <p>
           Dive into the world of predictive gaming with our BGMI Game Prediction project, where data-driven insights meet the excitement of competitive play.
@@ -162,7 +162,7 @@ const projects = [
           Utilizing a powerful tech stack that includes Python, TensorFlow, and Keras, the project builds and trains an advanced CNN model capable of identifying subtle alterations in document images. The dataset comprises authentic and tampered Pan Card images, ensuring comprehensive training and high detection accuracy.
         </p>
         <p>
-          By implementing this project, we aim to streamline the verification process and enhance the security measures for Pan Card issuance and usage. The model's performance is continuously improved through rigorous testing and validation, making it a reliable tool for real-world applications.
+          By implementing this project, we aim to streamline the verification process and enhance the security measures for Pan Card issuance and usage. The model&apos;s performance is continuously improved through rigorous testing and validation, making it a reliable tool for real-world applications.
         </p>
         <p>
           Experience the future of document security with our Pan Card Tampering Detection project, where technology meets trust.

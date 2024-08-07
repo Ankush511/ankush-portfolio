@@ -19,7 +19,7 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            Over the past few years, I've been dedicated to building and scaling software solutions. My journey has been fueled by a passion for creating robust applications and pushing the boundaries of technology. Let's connect and see what we can achieve together! 🔗
+            Over the past few years, I&apos;ve been dedicated to building and scaling software solutions. My journey has been fueled by a passion for creating robust applications and pushing the boundaries of technology. Let's connect and see what we can achieve together! 🔗
           </p>
         </Reveal>
         <Reveal>
