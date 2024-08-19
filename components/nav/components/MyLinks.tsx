@@ -3,6 +3,7 @@ import {
   AiFillLinkedin,
   AiFillGithub,
   AiFillTwitterCircle,
+  AiFillMediumCircle
 } from "react-icons/ai";
 import { SiKaggle } from "react-icons/si";
 import Link from "next/link";
@@ -38,6 +39,16 @@ export const MyLinks = () => {
       >
         <Link href="https://x.com/_k_ankushh_" target="_blank" rel="nofollow">
           <AiFillTwitterCircle size="2.4rem" />
+        </Link>
+      </motion.span>
+
+      <motion.span
+        initial={{ y: -30, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        transition={{ duration: 0.5, delay: 0.3 }}
+      >
+        <Link href="https://www.medium.com/@ankush511" target="_blank" rel="nofollow">
+          <AiFillMediumCircle size="2.4rem" />
         </Link>
       </motion.span>
 
