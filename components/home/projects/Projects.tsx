@@ -70,26 +70,26 @@ const projects = [
     ),
   },
   {
-    title: "Human Activity Recognition",
-    imgSrc: "project-imgs/human.jpeg",
-    code: "https://github.com/Ankush511/Human-Activity-Recognition",
-    projectLink: "https://github.com/Ankush511/Human-Activity-Recognition",
-    tech: ["Python", "Machine Learning", "Random Forest", "Sci-Kit Learn"],
+    title: "Malarial Cell Classification",
+    imgSrc: "project-imgs/malaria.webp",
+    code: "https://github.com/Ankush511/Malarial-Cell-Detection",
+    projectLink: "https://malarial.streamlit.app/",
+    tech: ["Python", "Machine Learning", "CNN", "OpenCV"],
     description:
-      "The Human Activity Recognition project is an advanced application of machine learning designed to classify.",
+      "The Malaria Cell Classification project is an innovative application of deep learning aimed at accurately identifying malaria-infected cells through microscopic images",
     modalContent: (
       <>
         <p>
-          The Human Activity Recognition project is an advanced application of machine learning designed to classify and interpret various human activities using data collected from smartphones. This project aims to enhance our understanding of everyday behaviors and activities through innovative data analysis.
+          The Malaria Cell Classification project is an innovative application of deep learning aimed at accurately identifying malaria-infected cells through microscopic images. This project seeks to contribute to the fight against malaria by enhancing diagnostic capabilities using advanced image analysis.
         </p>
         <p>
-          Utilizing smartphone sensors and data, the project employs machine learning techniques to accurately recognize and classify activities such as walking, running, sitting, and more. The tech stack includes Python for data processing and model development, with algorithms optimized to handle complex patterns in the sensor data.
+          Leveraging convolutional neural networks (CNNs), the project processes microscopic images to classify cells as either infected or uninfected. The tech stack includes Python, TensorFlow, and Keras, with CNN models optimized for image recognition and pattern detection in complex biological data.
         </p>
         <p>
-          The model is trained on diverse datasets, ensuring robust performance across different activity scenarios and user profiles. Continuous improvements and validation ensure high accuracy and reliability in activity recognition.
+          The model is trained on a comprehensive dataset of cell images, ensuring high accuracy and reliability in diverse diagnostic scenarios. Continuous model optimization and validation are integral to maintaining robust performance across different sample types.
         </p>
         <p>
-          Explore the future of personal and behavioral analytics with our Human Activity Recognition project, where technology and data converge to offer deeper insights into daily life.
+          Discover the potential of AI in healthcare with our Malaria Cell Classification project, where cutting-edge technology meets medical diagnostics to improve patient outcomes.
         </p>
       </>
     ),
