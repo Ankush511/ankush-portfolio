@@ -2,7 +2,7 @@ import styles from "./dotgrid.module.scss";
 import anime from "animejs";
 
 export const DotGrid = () => {
-  const GRID_WIDTH = 25;
+  const GRID_WIDTH = 100;
   const GRID_HEIGHT = 20;
 
   const dots = [];

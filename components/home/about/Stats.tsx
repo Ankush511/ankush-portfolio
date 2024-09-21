@@ -25,7 +25,6 @@ export const Stats = () => {
             <span className="chip">MySQL</span>
             <span className="chip">MongoDB</span>
             <span className="chip">GitHub</span>
-            <span className="chip">CRM</span>
           </div>
         </div>
       </Reveal>
@@ -41,9 +40,9 @@ export const Stats = () => {
             <span className="chip">C++</span>
             <span className="chip">Jupyter</span>
             <span className="chip">Data Mining</span>
-            <span className="chip">Tableau</span>
-            <span className="chip">PowerBI</span>
-            <span className="chip">Planetscale</span>
+            <span className="chip">Ollama</span>
+            <span className="chip">Amazon SageMaker</span>
+            <span className="chip">Selenium</span>
             <span className="chip">Streamlit</span>
             <span className="chip">Kaggle</span>
             <span className="chip">Keras</span>

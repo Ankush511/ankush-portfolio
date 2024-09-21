@@ -18,6 +18,57 @@ export const Projects = () => {
 
 const projects = [
   {
+    title: "Financial AI Agent",
+    imgSrc: "project-imgs/finance.png",
+    code: "https://github.com/Ankush511/Financial-AI-Agent-using-LangGraph/blob/main/LangGraph%20AI%20Agent.ipynb",
+    projectLink: "https://www.kaggle.com/code/kashyapankush/financial-ai-agent-using-langgraph/notebook",
+    tech: ["Python", "ML", "Llama 3.1 LLM", "LangChain", "LangGraph"],
+    description:
+      "The Smart Finance Assistant project is an AI-driven solution designed to provide real-time financial data and insights for businesses and investors.",
+    modalContent: (
+      <>
+        <p>
+          The Smart Finance Assistant project is an AI-driven solution designed to provide real-time financial data and insights for businesses and investors. By integrating advanced language models and financial tools, the assistant can retrieve and analyze key financial metrics with precision.
+        </p>
+        <p>
+          The assistant leverages APIs to access live financial data such as EBITDA, total revenue, and debt-to-equity ratio. Utilizing a state-of-the-art natural language processing model and dynamic tool binding, the project ensures accurate responses for complex financial queries.
+        </p>
+        <p>
+          The tech stack includes Llama 3.1 for language understanding, Python, yfinance for financial data extraction, and langchain for managing tools and API calls. The project also employs graph-based state management to optimize tool interactions and response times.
+        </p>
+        <p>
+          Enhance decision-making with our Smart Finance Assistant project, where cutting-edge AI technology meets real-time financial data to drive business insights.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "AI Web Scraping Tool",
+    imgSrc: "project-imgs/scrape.svg",
+    code: "https://github.com/Ankush511/AI-Scraper-Tool",
+    projectLink: "https://drive.google.com/file/d/19YYg9WDBVqf2sCY9NjTM91SU9f_MYP-o/view?usp=sharing",
+    tech: ["Python", "ML", "Llama 3.1 LLM", "LangChain", "Selenium", "Beautiful Soup"],
+    description:
+      "The AI Web Scraper Tool is an advanced solution designed to automate the extraction and processing of web data from complex websites.",
+    modalContent: (
+      <>
+        <p>
+          The AI Web Scraper Tool is an advanced solution designed to automate the extraction and processing of web data from complex websites. By leveraging cutting-edge AI models and automation techniques, the tool efficiently handles tasks like CAPTCHA solving and large-scale data retrieval.
+        </p>
+        <p>
+          The tool uses Selenium with Chromium Remote WebDriver to scrape websites and extract content. Additionally, it employs the LLaMA 3.1 language model to intelligently split large DOM content into smaller, manageable chunks according to user-defined prompts, ensuring precise data extraction.
+        </p>
+        <p>
+          The tech stack includes LLaMA 3.1 for natural language processing, Selenium for web automation, BeautifulSoup for HTML parsing and cleaning, and Python for orchestrating the scraping workflow. The project is designed to manage complex web structures and enhance data retrieval efficiency.
+        </p>
+        <p>
+          Streamline web scraping with the AI Web Scraper Tool, where innovative AI meets robust automation to deliver accurate and timely data for real-world applications.
+        </p>
+
+      </>
+    ),
+  },
+  {
     title: "Bike Sharing Demand Prediction",
     imgSrc: "project-imgs/bike.jpeg",
     code: "https://github.com/Ankush511/Bike-Sharing-Demand-Prediction",
@@ -168,59 +219,6 @@ const projects = [
           Experience the future of document security with our Pan Card Tampering Detection project, where technology meets trust.
         </p>
 
-      </>
-    ),
-  },
-  {
-    title: "G-Connect",
-    imgSrc: "project-imgs/social.webp",
-    code: "https://github.com/Ankush511/g-connect",
-    projectLink: "https://g-connect-ivory.vercel.app/",
-    tech: ["ReactJs", "NodeJs", "MongoDB", "Cloudinary"],
-    description:
-      "G-Connect social media app is a dynamic platform designed to connect people and foster interactions.",
-    modalContent: (
-      <>
-        <p>
-          G-Connect social media app is a dynamic platform designed to connect people and foster interactions. This project enables users to create accounts, post images, comment on posts, and add friends, all while utilizing a robust tech stack.
-        </p>
-        <p>
-          Built with React.js for a seamless and interactive frontend, Node.js for a scalable backend, and MongoDB for efficient data management, the app ensures a smooth user experience. Cloudinary is used for image storage and optimization, allowing for quick and reliable media handling.
-        </p>
-        <p>
-          The app supports full CRUD operations, enabling users to manage their profiles, engage with content, and build their social network effortlessly. With features designed to enhance connectivity and interaction, this project demonstrates the power of modern web technologies in creating engaging social platforms.
-        </p>
-        <p>
-          Explore the future of social networking with G-Connect, where every interaction is a step towards building meaningful connections.
-        </p>
-      </>
-    ),
-  },
-  {
-    title: "Guild-Chat",
-    imgSrc: "project-imgs/Chat-img.png",
-    code: "https://github.com/Ankush511/Guild-Chat",
-    projectLink: "guild-chat.vercel.app",
-    tech: ["NextJs", "Tailwind", "Planetscale", "Prisma"],
-    description:
-      "Guild-Chat is a real-time communication app designed to bring communities together.",
-    modalContent: (
-      <>
-        <p>
-          Guild-Chat is a real-time communication app designed to bring communities together. This project is my brainchild, meticulously designed and built from scratch to facilitate seamless interactions.
-        </p>
-        <p>
-          The tech stack features a robust architecture with a NextJs frontend, Typescript & Prisma for backend, and data stored in Planetscale, all deployed on Railway for reliable performance.
-        </p>
-        <p>
-          With Guild-Chat, users can create channels, send messages, and share media, making it the perfect platform for community building, team collaboration, and social interaction.
-        </p>
-        <p>
-          Experience a new level of connectivity with features designed to keep conversations flowing smoothly and efficiently.
-        </p>
-        <p>
-          Join Guild-Chat today and be a part of a vibrant community where communication is effortless and enjoyable.
-        </p>
       </>
     ),
   },
