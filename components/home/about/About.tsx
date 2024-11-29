@@ -18,7 +18,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work at Ascella Infosec, where I focus on developing and enhancing the frontend for the Ascella Groups. My role allows me to combine my technical skills with creativity to deliver seamless user experiences.
+            I currently work as an AI Engineer Intern, where I focus on developing and implementing AI-driven solutions. My role involves designing efficient data processing pipelines, building evaluation frameworks for retrieval systems, integrating APIs, and experimenting with machine learning models to enhance performance and scalability.
             </p>
           </Reveal>
           <Reveal>

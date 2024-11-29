@@ -12,17 +12,16 @@ export const Stats = () => {
             <span>Use at work</span>
           </h4>
           <div className={styles.statGrid}>
-            <span className="chip">JavaScript</span>
-            <span className="chip">Tailwind</span>
-            <span className="chip">Figma</span>
-            <span className="chip">NextJs</span>
-            <span className="chip">ReactJs</span>
-            <span className="chip">NodeJs</span>
-            <span className="chip">AWS</span>
             <span className="chip">Python</span>
+            <span className="chip">FastAPI</span>
             <span className="chip">Machine Learning</span>
+            <span className="chip">GPT-4o</span>
             <span className="chip">Tensorflow</span>
+            <span className="chip">Hugging Face</span>
+            <span className="chip">Amazon SageMaker</span>
+            <span className="chip">AWS</span>
             <span className="chip">MySQL</span>
+            <span className="chip">Jupyter</span>
             <span className="chip">MongoDB</span>
             <span className="chip">GitHub</span>
           </div>
@@ -38,16 +37,13 @@ export const Stats = () => {
             <span className="chip">R</span>
             <span className="chip">TypeScript</span>
             <span className="chip">C++</span>
-            <span className="chip">Jupyter</span>
             <span className="chip">Data Mining</span>
             <span className="chip">Ollama</span>
-            <span className="chip">Amazon SageMaker</span>
             <span className="chip">Selenium</span>
             <span className="chip">Streamlit</span>
             <span className="chip">Kaggle</span>
             <span className="chip">Keras</span>
             <span className="chip">BeautifulSoup</span>
-            <span className="chip">FastAPI</span>
           </div>
         </div>
       </Reveal>

@@ -14,9 +14,27 @@ export const Experience = () => {
 
 const experience = [
   {
+    "title": "Mycroft",
+    "position": "AI Engineer - Intern",
+    "time": "Oct 2024 - Present",
+    "location": "Bangalore, Karnataka, India",
+    "description":
+      "I develop and implement AI-driven solutions, including advanced document chunking strategies using LlamaParse and OpenAI GPT-4. I created a Retrieval-Augmented Generation (RAG) evaluation set utilizing Anthropics' Contextual Retrieval methods, tested various embedding models for performance optimization, and built APIs with FastAPI for seamless integrations.",
+    "tech": [
+      "Python",
+      "OpenAI GPT-4",
+      "LlamaParse",
+      "LiteLLM",
+      "FastAPI",
+      "GitHub",
+      "AWS",
+      "Postman"
+    ]
+  },
+  {
     title: "Ascella InfoSec",
     position: "Software Engineer - Intern",
-    time: "Aug 2024 - Present",
+    time: "Jul 2024 - Oct 2024",
     location: "Bangalore, Karnataka, India",
     description:
       "I help build and enhance the Ascella Groups Page. By implementing verticals and animations, I significantly improved the user experience. Additionally, I optimized the frontend performance, resulting in a smoother and more responsive interface. My work ensures that users enjoy an engaging and efficient experience on the platform.",
